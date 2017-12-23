@@ -1,4 +1,4 @@
-class profile::tomcat {
+class profiles::tomcat {
 
 	include java
 	include tomcat
